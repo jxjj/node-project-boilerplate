@@ -1,10 +1,25 @@
-# Title
+# Node JS Project Boilerplate
 
-> Short Description.
+> A simple starter for NodeJS Projects
 
-Longer Description... Think about including a GIF screenshot example.
+A few things out of the box:
+
+* [x] [Babel](https://babeljs.io)
+* [x] [avajs](https://ava.li) for test running
+* [x] [ESLint](https://eslint.org/)
+* [x] [Airbnb's ESlint rules](https://github.com/airbnb/javascript)
+* [x] Nodemon
+* [x] and more!
 
 ## Installation
+
+First clone this repo:
+
+```sh
+$ git clone git@github.com:jxjj/nodejs-project-boilerplate.git your-new-project-name
+```
+
+Then make it your own.
 
 ## Usage
 
